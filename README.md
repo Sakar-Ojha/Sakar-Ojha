@@ -1,4 +1,4 @@
-- C++ - Python - C - Linux - Windows
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,c,linux,debian,git)](https://skillicons.dev)
 <!--
 **Sakar-Ojha/Sakar-Ojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
