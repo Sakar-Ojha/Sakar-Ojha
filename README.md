@@ -1,5 +1,4 @@
-## Hi there 👋
-
+- C++ - Python - C - Linux - Windows
 <!--
 **Sakar-Ojha/Sakar-Ojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
