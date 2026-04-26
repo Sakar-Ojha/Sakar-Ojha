@@ -13,5 +13,5 @@ Currently working on projects in C, C++, Python, and Linux environments while co
 - TCP Client/Server Project
 
 ## Contact
-LinkedIn: [Sakar] (www.linkedin.com/in/sakar-ojha)
+LinkedIn: (www.linkedin.com/in/sakar-ojha)
 Email: [o66@umbc.edu]
