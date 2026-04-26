@@ -8,9 +8,9 @@ Currently working on projects in C, C++, Python, and Linux environments while co
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,c,linux,debian,git)](https://skillicons.dev)
 
 ## Featured Projects
-- Runescape Crafting Game (C++)
-- Linux Kernel Tic-Tac-Toe
-- TCP Client/Server Project
+- Frogger/logger
+- Tic-Tac-Toe
+- Railroad-network-system
 
 ## Contact
 LinkedIn: (www.linkedin.com/in/sakar-ojha)
